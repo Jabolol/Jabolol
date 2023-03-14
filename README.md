@@ -3,7 +3,7 @@
 </div>
 
 <p style="font-family: Arial, sans-serif; line-height: 1.2; text-align: center;">
-    ➢ Proficient in <strong>TypeScript</strong> and <strong>C</strong> programming languages, with experience in developing ➢ efficient and scalable software solutions.<br><br>
+    ➢ Proficient in <strong>TypeScript</strong> and <strong>C</strong> programming languages, with experience in developing efficient and scalable software solutions.<br><br>
     ➢ Skilled in <strong>Ruby</strong> and <strong>Python</strong> programming languages, with a strong passion for learning new technologies and expanding my knowledge.<br><br>
     ➢ Highly interested in <strong>embedded systems development</strong>, with a focus on creating optimized and reliable software solutions for hardware devices.<br><br>
     ➢ Well-versed in <strong>full-stack development</strong>, with a deep understanding of both front-end and back-end technologies and frameworks.<br><br>
