@@ -25,7 +25,7 @@
 <img src="https://www.yoshiislandblog.net/wp-content/uploads/2022/08/node-js-300x300.png" width="50px" height="50px" style="padding:5px;" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"width="auto" height="50px" style="padding:5px;" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png"width="50px" height="50px" style="padding:5px;" />
-<img src="https://seeklogo.com/images/F/fresh-logo-F66F0FD377-seeklogo.com.png"width="auto" height="50px" />
+<img src="https://fresh.deno.dev/logo.svg"width="auto" height="60px" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png"width="auto" height="50px" style="padding:5px;" />
 <img src="https://zerosandones.gallerycdn.vsassets.io/extensions/zerosandones/redis-command-runner/0.2.0/1582276446864/Microsoft.VisualStudio.Services.Icons.Default"width="auto" height="50px" style="padding:5px;" />
 </div>
